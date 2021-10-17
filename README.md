@@ -51,6 +51,8 @@ Users can click on any product to get more information of quantity and  pricing.
 
 ![pic2](https://user-images.githubusercontent.com/92640408/137637962-0e3228f1-663b-4ee7-a81f-98c31c597cb6.jpg)
 
+![pic3](https://user-images.githubusercontent.com/92640408/137638077-e824a69e-c52c-433b-b894-70a759b9b324.jpg)
+
 ## Tech Stack
 * PHP
 * JavaScript
