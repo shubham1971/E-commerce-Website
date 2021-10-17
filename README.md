@@ -46,8 +46,9 @@ Users can click on any product to get more information of quantity and  pricing.
 | Remove a Item | &#10004; | Ability of Remove a Item from the Cart |
 | Checkout | &#10004; | Ability to Checkout |
 
-##Screenshots
-![screen1](https://user-images.githubusercontent.com/92640408/137637571-742a0eec-3607-4211-9d40-ad2c356208ae.jpg)
+
+## Screenshots
+![pic1](https://user-images.githubusercontent.com/92640408/137637841-4b9b9f8f-92e8-4d8a-8e1d-747c68f4e4a2.jpg)
 
 ## Tech Stack
 * PHP
